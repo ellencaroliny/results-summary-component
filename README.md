@@ -5,5 +5,5 @@ I have used CSS and HTML;
 
 #Links:
 LIVE SITE URL:
-REPOSITORY URL:
+REPOSITORY URL:https://github.com/ellencaroliny/results-summary-component
 
