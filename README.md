@@ -1,5 +1,5 @@
 # results-summary-component
-Hello-world👋
+Hello, world👋
 This is my solution to "Results summary component | Frontend Mentor " ;
 I have used CSS and HTML;
 
